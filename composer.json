@@ -1,5 +1,7 @@
 {
   "name": "jhuta/php-mvc-core",
+  "description": "php mvc core",
+  "license": "MIT",
   "authors": [
     {
       "name": "JACKo",
